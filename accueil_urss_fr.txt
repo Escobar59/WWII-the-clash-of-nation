@@ -1,0 +1,14 @@
+Narration~~ Vous vous retrouvez sur le front Russo-Germanique en pleine bataille contre l’allemagne nazi. Des camions bolchéviques vous ont enrolé et envoyé au front. A votre arrive, vous apercevez  un paysage devaste. Les batiments sont en ruines, les tranchees sont detruit. Les fils de barbelés et les débris témoignent des combats acharnés qui ont eu lieu a Stalingrad en URSS. 
+
+
+Chef des soldats URSS (capitaine) ~~  Soldat de la grande armée rouge, en ce jour les fachistes du régime nazi sont a nos portes ils s’attaquent a nos villes, nos femmes et nos enfants. Ils veulent detruire nos vies...
+Allez-vous les laissez faire ?
+
+Soldats sovietiques~~ Нет(non)
+
+Chef des soldats URSS (capitaine) ~~ 
+Bien alors dans ce cas charger et aneantissez ces fascistes!
+
+1. Combattre avec les soldats
+
+2. Fuir

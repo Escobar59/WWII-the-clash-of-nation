@@ -1,0 +1,4 @@
+Narrateur~~ Vous decidez de monter sur les ruines du bâtiments ce qui vous permet d’avoir un meilleur point de vue sur la situation. Vous pouvez voir le commandant ennemi donner ses ordres ainsi que le pilote du tank sortir pour les écouter.
+
+1. tirer sur le commandant ennemi
+2. lancer une grenade dans le tank afin de le détruire

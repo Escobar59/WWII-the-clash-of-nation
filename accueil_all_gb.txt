@@ -1,0 +1,13 @@
+Narrator~~ Here you are in 1944, following the landing and the liberation of France. 
+
+The Americans have helped you recover the lands under Nazi occupation, once this is done, you are gone to fight the Third Reich with your new allies.
+A few weeks later.
+you will discover structures that the Nazis decided to burn. you manage to discover in rubble, different papers with the signature of the Leader of the SS: Himmler. 
+
+Chief~~ Soldier, come see me.
+
+Narrator~~ When you go to see your squad leader, you smell a foul smell filling the room. You see your captain in a room with palms of high showers. At first glance, you think that these are showers for people who are exploited, but as you go along, you discover that there are bodies piled up.
+
+1. Inspect Corpses 
+
+2. Talk to your boss.

@@ -1,0 +1,8 @@
+Narrateur~~ Les cadavres sont nus mais vous pouvez voir dans des bassines en dehors de la chambre des piles de vêtements, ou vous pouvez apercevoir le mot ‘Juden’ avec une étoile de David.
+Après cela vous partez pour parler à votre chef d’escouade des découvertes macabres que vous venez de faire
+
+Chef~~ Soldat, j’ai reçu des rapports ce lieu n’est pas le seul a avoir ete l’auteur de crime pareils. Certains rapports m’indiquent que les nazis brulent ses endroits afin d’eviter que ces crimes soient mis en lumiere. 
+
+1. Continuer de chercher des informations en suivant une porte entre ouverte
+
+2 Partir avec votre chef d’escouade faire un rapport a votre base

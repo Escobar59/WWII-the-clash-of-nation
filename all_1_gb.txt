@@ -1,0 +1,8 @@
+Narrator~~ The corpses are naked but you can see piles of clothes in basins outside the room, or you can see the word 'Juden' with a Star of David.
+After that you leave to talk to your squad leader about the macabre discoveries you just made
+
+Chief~~ Soldier, I have received reports this place is not the only one to have been the perpetrator of such crimes. Some reports tell me that the Nazis are burning his places to prevent these crimes from coming to light. 
+
+1. Continue to search for information by following an open door
+
+2 Go with your squad leader to report to your base

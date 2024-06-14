@@ -1,0 +1,5 @@
+Narrator~~ The person insists and continues knocking on your door. You really don't know what to do; they insist and seem ready to break your door. What do you want to do?
+
+1.Open the door. 
+
+2. Pretend that the house is uninhabited.

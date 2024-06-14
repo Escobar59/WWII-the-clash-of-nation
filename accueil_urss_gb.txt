@@ -1,0 +1,14 @@
+Narration~~ You find yourself on the Russo-Germanic front in full battle against Nazi Germany. Bolshevik trucks have wrapped you up and sent you to the front. When you arrive, you see a devast landscape. The buildings are in ruins, the trenches are in ruins. The barbed wire and debris testify to the fierce fighting that took place in Stalingrad in the USSR. 
+
+
+Soldier of the Great Red Army, this day the fascists of the Nazi regime are at our doors they attack our cities, our women and our children. They want to ruin our lives...
+Will you let them?
+
+Soviet soldiers~~ Нет(no)
+
+Head of USSR soldiers (captain) ~~ 
+Well then in this case load and aneantis these fascists!
+
+1. Fight with Soldiers
+
+2. Run away
